@@ -56,7 +56,7 @@ namespace NHC.Claims.API.Controllers
                 if (result)
                     return Ok();
                 else
-                    return Ok("There was an issue in updating the claim");
+                    return Conflict("There was an issue in updating the claim");
             }
         }
 
