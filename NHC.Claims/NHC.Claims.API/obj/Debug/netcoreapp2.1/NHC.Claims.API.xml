@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>NHC.Claims.API</name>
+    </assembly>
+    <members>
+        <member name="M:NHC.Claims.API.Controllers.ClaimsController.GetClaimsForYear(System.Int32)">
+            <summary>
+            Get all claims for a Year
+            </summary>
+            <param name="year"></param>
+            <returns>List of claims</returns>
+        </member>
+        <member name="M:NHC.Claims.API.Controllers.ClaimsController.Get(System.Int32)">
+            <summary>
+            Get claim by Id
+            </summary>
+            <param name="id"></param>
+            <returns>Claim details for the Id</returns>
+        </member>
+        <member name="M:NHC.Claims.API.Controllers.ClaimsController.Post(NHC.Claims.Entities.Claims)">
+            <summary>
+            Create a new claim
+            </summary>
+            <param name="claims"></param>
+        </member>
+        <member name="M:NHC.Claims.API.Controllers.ClaimsController.Delete(System.Int32)">
+            <summary>
+            Delete claim by Id
+            </summary>
+            <param name="id">Id of the Claim</param>
+        </member>
+    </members>
+</doc>

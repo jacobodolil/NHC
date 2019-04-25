@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\NHC.Claims.DataAccess\NHC.Claims.DataAccess.csproj" />
+    <ProjectReference Include="..\NHC.Claims.DataModel\NHC.Claims.DataModel.csproj" />
+    <ProjectReference Include="..\NHC.Claims.Entities\NHC.Claims.Entities.csproj" />
+  </ItemGroup>
+
+</Project>

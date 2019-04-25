@@ -1,0 +1,12 @@
+C:\WorkSpace\NHC.Claims\NHC.Claims.DataAccess\bin\Debug\netcoreapp2.1\NHC.Claims.DataAccess.deps.json
+C:\WorkSpace\NHC.Claims\NHC.Claims.DataAccess\bin\Debug\netcoreapp2.1\NHC.Claims.DataAccess.dll
+C:\WorkSpace\NHC.Claims\NHC.Claims.DataAccess\bin\Debug\netcoreapp2.1\NHC.Claims.DataAccess.pdb
+C:\WorkSpace\NHC.Claims\NHC.Claims.DataAccess\bin\Debug\netcoreapp2.1\NHC.Claims.DataModel.dll
+C:\WorkSpace\NHC.Claims\NHC.Claims.DataAccess\bin\Debug\netcoreapp2.1\NHC.Claims.DataModel.pdb
+C:\WorkSpace\NHC.Claims\NHC.Claims.DataAccess\obj\Debug\netcoreapp2.1\NHC.Claims.DataAccess.csprojAssemblyReference.cache
+C:\WorkSpace\NHC.Claims\NHC.Claims.DataAccess\obj\Debug\netcoreapp2.1\NHC.Claims.DataAccess.csproj.CoreCompileInputs.cache
+C:\WorkSpace\NHC.Claims\NHC.Claims.DataAccess\obj\Debug\netcoreapp2.1\NHC.Claims.DataAccess.AssemblyInfoInputs.cache
+C:\WorkSpace\NHC.Claims\NHC.Claims.DataAccess\obj\Debug\netcoreapp2.1\NHC.Claims.DataAccess.AssemblyInfo.cs
+C:\WorkSpace\NHC.Claims\NHC.Claims.DataAccess\obj\Debug\netcoreapp2.1\NHC.Claims.DataAccess.csproj.CopyComplete
+C:\WorkSpace\NHC.Claims\NHC.Claims.DataAccess\obj\Debug\netcoreapp2.1\NHC.Claims.DataAccess.dll
+C:\WorkSpace\NHC.Claims\NHC.Claims.DataAccess\obj\Debug\netcoreapp2.1\NHC.Claims.DataAccess.pdb

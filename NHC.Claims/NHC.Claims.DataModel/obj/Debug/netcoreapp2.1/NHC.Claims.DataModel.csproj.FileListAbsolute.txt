@@ -1,0 +1,8 @@
+C:\WorkSpace\NHC.Claims\NHC.Claims.DataModel\bin\Debug\netcoreapp2.1\NHC.Claims.DataModel.deps.json
+C:\WorkSpace\NHC.Claims\NHC.Claims.DataModel\bin\Debug\netcoreapp2.1\NHC.Claims.DataModel.dll
+C:\WorkSpace\NHC.Claims\NHC.Claims.DataModel\bin\Debug\netcoreapp2.1\NHC.Claims.DataModel.pdb
+C:\WorkSpace\NHC.Claims\NHC.Claims.DataModel\obj\Debug\netcoreapp2.1\NHC.Claims.DataModel.csproj.CoreCompileInputs.cache
+C:\WorkSpace\NHC.Claims\NHC.Claims.DataModel\obj\Debug\netcoreapp2.1\NHC.Claims.DataModel.AssemblyInfoInputs.cache
+C:\WorkSpace\NHC.Claims\NHC.Claims.DataModel\obj\Debug\netcoreapp2.1\NHC.Claims.DataModel.AssemblyInfo.cs
+C:\WorkSpace\NHC.Claims\NHC.Claims.DataModel\obj\Debug\netcoreapp2.1\NHC.Claims.DataModel.dll
+C:\WorkSpace\NHC.Claims\NHC.Claims.DataModel\obj\Debug\netcoreapp2.1\NHC.Claims.DataModel.pdb
