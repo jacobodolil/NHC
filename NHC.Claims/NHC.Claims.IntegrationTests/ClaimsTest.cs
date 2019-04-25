@@ -1,4 +1,5 @@
 using System;
+using System.Net;
 using System.Threading.Tasks;
 using Xunit;
 
@@ -16,7 +17,7 @@ namespace NHC.Claims.IntegrationTests
         public async Task GetClaimsForAnYear_Valid_Response()
         {
             var response = await _context.Client.GetAsync("api/claims/1");
-            var responseMessage = await response.Content.ReadAsStringAsync();
+            Assert.Equal(HttpStatusCode.OK, response.StatusCode);
         }
     }
 }
